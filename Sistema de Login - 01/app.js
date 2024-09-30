@@ -144,3 +144,6 @@ mongoose
         app.listen(3000)
         console.log('Conectou ao banco de dados!')
     }).catch((err) => console.log(err))
+
+
+    //sofia
